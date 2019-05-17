@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Mahesh Oleti -- daringmahesh007@gmail.com -- @mahesh_oleti
 
 # THANKS
 
